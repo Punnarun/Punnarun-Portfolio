@@ -2,16 +2,16 @@
     {
       "title": "OML Website",
       "description": "A mathematic Quiz , using HTML, CSS and JavaScript as a Frontend , using a MongoDB as a Backend Database .",
-      "github": "https://github.com/Punnarun/CEDT"
+      "github": "https://github.com/Punnarun/OML"
     },
     {
       "title": "Discord Bot",
       "description": "A Discord Bot , using Python which have multiple porductivity function in it.s",
-      "github": "https://github.com/Punnarun/CEDT"
+      "github": "https://github.com/Punnarun/Discord-Bot"
     },
     {
       "title": "This Portfolio Website",
       "description": "A portfolio Website , using React.js framework styling with CSS",
-      "github": "https://github.com/Punnarun/CEDT"
+      "github": "https://github.com/Punnarun/Punnarun-Portfolio"
     }
   ]

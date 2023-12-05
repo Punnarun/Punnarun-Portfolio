@@ -1,0 +1,57 @@
+@import "../../vars.css";
+
+.container {
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+  background: linear-gradient(180deg, #576cbc 0%, rgb(0, 191, 255) 100%);
+  box-shadow: 0 16px 14px 0 #04152d;
+  padding: 18px 24px;
+  max-width: 345px;
+  margin-bottom: 100px;  
+}
+
+.title {
+  font-size: 25px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.description {
+  margin-top: 6px;
+  font-size: 18px;
+  font-weight: 400;
+  text-align: center;
+}
+
+.skill {
+  font-size: 10px;
+  font-weight: 400;
+  border-radius: 100px;
+  background: var(--color-dark);
+  padding: 2px 22px;
+}
+.links {
+  width: 100%;
+  margin-top: 26px;
+  display: flex;
+  justify-content: center; /* Center horizontally */
+}
+
+.link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  color: var(--color-text);
+  border-radius: 50%; /* Makes it circular */
+  background: white;
+  width: 40px; /* Adjust width as needed */
+  height: 40px; /* Adjust height as needed */
+  margin: 0 8px; /* Adds space between links */
+}
+
+.link img {
+  width: 60%; /* Adjust the logo size */
+  height: auto;
+}
